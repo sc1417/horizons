@@ -27,22 +27,23 @@ h1
 
 .our-team-main img
 {
-	border-radius:50%;
+	border-radius: 120%;
 	margin-bottom:20px;
-	width: 90px;
+	width: 130px;
 }
+
 
 .our-team-main h3
 {
-	font-size:20px;
+	font-size:30px;
 	font-weight:700;
-	color: #6610f2
+	color: #2c3e50
 }
 
 .our-team-main p
 {
 	margin-bottom:0;
-	color: #6610f2
+	color: #2c3e50
 }
 
 .team-back
@@ -69,6 +70,19 @@ h1
 	bottom:0px;
 	transition: all 0.5s ease;
 }
+
+.team-front1
+{
+	width:200%;
+	height:auto;
+	position:relative;
+	z-index:10;
+	background:#fff;
+	padding:15px;
+	bottom:0px;
+	transition: all 0.5s ease;
+}
+
 
 .our-team-main:hover .team-front
 {
