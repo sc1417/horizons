@@ -7,7 +7,7 @@ h1
 {
 	color:#343a40;
 	margin:40px 0 60px 0;
-	font-weight:300;
+	font-weight:5rem;
 }
 
 .our-team-main
@@ -46,8 +46,9 @@ h1
 	color: #2c3e50
 }
 
-.team-back
+.team-back1
 {
+	font-size:20px;
 	width:100%;
 	height:auto;
 	position:absolute;
@@ -55,7 +56,21 @@ h1
 	left:0;
 	padding:5px 15px 0 15px;
 	text-align:left;
-	background:#37275D;
+	background:#2c3e50;
+	
+}
+
+.team-back
+{
+	
+	width:100%;
+	height:auto;
+	position:absolute;
+	top:0;
+	left:0;
+	padding:5px 15px 0 15px;
+	text-align:left;
+	background:#2c3e50;
 	
 }
 
